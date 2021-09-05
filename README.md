@@ -5,8 +5,11 @@ This project aims to build a hand gesture controlled robot that can be used in h
 ## Contact
 
 Name: Hoan Tran
+
 Cell: +84 978 39 41 43
+
 Email: daibangcam@gmail.com
+
 Website: http://hano.cf/
 
 ## Demo
