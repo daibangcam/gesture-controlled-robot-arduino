@@ -4,4 +4,4 @@ This project aims to build a hand gesture controlled robot that can be used in h
  
 ## Example animations
 
-Watch it on YouTube [Image Animation](https://youtu.be/mHv-YXXXko8)
+Watch it on YouTube [Arduino Gesture Robot](https://youtu.be/mHv-YXXXko8)
